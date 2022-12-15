@@ -1,0 +1,70 @@
+2021-07-07 03:29:28,643:INFO:Initializing load_model()
+2021-07-07 03:29:28,643:INFO:load_model(model_name=./final_lightGBM_111, platform=None, authentication=None, verbose=True)
+2021-07-07 03:29:28,654:INFO:Initializing predict_model()
+2021-07-07 03:29:28,654:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(display_types=False,
+                                      ml_usecase='classification',
+                                      target='label')),
+                ['trained_model', LGBMClassifier(random_state=1768)]]), probability_threshold=0.5, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-07-07 03:29:28,654:INFO:Checking exceptions
+2021-07-07 03:29:28,654:INFO:Preloading libraries
+2021-07-07 03:33:48,725:INFO:Initializing load_model()
+2021-07-07 03:33:48,725:INFO:load_model(model_name=./final_lightGBM_111, platform=None, authentication=None, verbose=True)
+2021-07-07 03:33:48,735:INFO:Initializing predict_model()
+2021-07-07 03:33:48,735:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(display_types=False,
+                                      ml_usecase='classification',
+                                      target='label')),
+                ['trained_model', LGBMClassifier(random_state=1768)]]), probability_threshold=0.5, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-07-07 03:33:48,735:INFO:Checking exceptions
+2021-07-07 03:33:48,735:INFO:Preloading libraries
+2021-07-07 03:38:28,149:INFO:Initializing load_model()
+2021-07-07 03:38:28,149:INFO:load_model(model_name=./final_lightGBM_111, platform=None, authentication=None, verbose=True)
+2021-07-07 03:38:28,159:INFO:Initializing predict_model()
+2021-07-07 03:38:28,159:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(display_types=False,
+                                      ml_usecase='classification',
+                                      target='label')),
+                ['trained_model', LGBMClassifier(random_state=1768)]]), probability_threshold=0.5, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-07-07 03:38:28,159:INFO:Checking exceptions
+2021-07-07 03:38:28,160:INFO:Preloading libraries
+2021-07-07 04:02:59,968:INFO:Initializing load_model()
+2021-07-07 04:02:59,968:INFO:load_model(model_name=./final_lightGBM_111, platform=None, authentication=None, verbose=True)
+2021-07-07 04:02:59,979:INFO:Initializing predict_model()
+2021-07-07 04:02:59,979:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(display_types=False,
+                                      ml_usecase='classification',
+                                      target='label')),
+                ['trained_model', LGBMClassifier(random_state=1768)]]), probability_threshold=0.5, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-07-07 04:02:59,979:INFO:Checking exceptions
+2021-07-07 04:02:59,979:INFO:Preloading libraries
+2021-07-07 04:03:46,488:INFO:Initializing load_model()
+2021-07-07 04:03:46,488:INFO:load_model(model_name=./final_lightGBM_111, platform=None, authentication=None, verbose=True)
+2021-07-07 04:03:46,500:INFO:Initializing predict_model()
+2021-07-07 04:03:46,501:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(display_types=False,
+                                      ml_usecase='classification',
+                                      target='label')),
+                ['trained_model', LGBMClassifier(random_state=1768)]]), probability_threshold=0.5, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-07-07 04:03:46,501:INFO:Checking exceptions
+2021-07-07 04:03:46,501:INFO:Preloading libraries
+2021-07-07 04:08:59,696:INFO:Initializing load_model()
+2021-07-07 04:08:59,696:INFO:load_model(model_name=./model/final_lightGBM_111, platform=None, authentication=None, verbose=True)
+2021-07-07 04:08:59,707:INFO:Initializing predict_model()
+2021-07-07 04:08:59,707:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(display_types=False,
+                                      ml_usecase='classification',
+                                      target='label')),
+                ['trained_model', LGBMClassifier(random_state=1768)]]), probability_threshold=0.5, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-07-07 04:08:59,707:INFO:Checking exceptions
+2021-07-07 04:08:59,707:INFO:Preloading libraries
+2021-07-12 00:48:57,092:INFO:Initializing load_model()
+2021-07-12 00:48:57,092:INFO:load_model(model_name=./model/final_lightGBM_111, platform=None, authentication=None, verbose=True)
+2021-07-12 00:48:57,107:INFO:Initializing predict_model()
+2021-07-12 00:48:57,107:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(display_types=False,
+                                      ml_usecase='classification',
+                                      target='label')),
+                ['trained_model', LGBMClassifier(random_state=1768)]]), probability_threshold=0.5, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-07-12 00:48:57,107:INFO:Checking exceptions
+2021-07-12 00:48:57,107:INFO:Preloading libraries
